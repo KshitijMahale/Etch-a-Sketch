@@ -49,6 +49,7 @@ for (let i = 0; i < 16 * 16; i++) {
         }
     });
 }
+
 function randomColor() {
     let r = Math.floor(Math.random() * 255) + 1;
     let g = Math.floor(Math.random() * 255) + 1;
